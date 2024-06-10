@@ -10,7 +10,7 @@
   <li>Reset Option: Players can reset the game to start over</li>
   </ul>
 
-👉 Live Demo: <a href='https://sanjayvjacob.github.io/tictactoe-react/'>Live Demo</a>
+👉 Live Demo: <a href='https://sanjayvjacob.github.io/tictactoe-js/'>Live Demo</a>
 
 <h3>Build with: HTML5, CSS3, JavaScript</h3>
 
